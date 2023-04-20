@@ -93,7 +93,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
-            this.Text = "Ver1.00";
+            this.Text = "Ver1.10";
             this.ResumeLayout(false);
             this.PerformLayout();
 
