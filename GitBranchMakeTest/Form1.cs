@@ -21,5 +21,10 @@ namespace GitBranchMakeTest
         {
             label1.Text = "hoge";
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            label2.Text = "hogehogehogeho";
+        }
     }
 }
