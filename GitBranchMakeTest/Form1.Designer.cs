@@ -42,7 +42,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(43, 12);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Ver1.20";
+            this.label1.Text = "Ver1.30";
             // 
             // label2
             // 
@@ -93,7 +93,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
-            this.Text = "Ver1.20";
+            this.Text = "Ver1.30";
             this.ResumeLayout(false);
             this.PerformLayout();
 
