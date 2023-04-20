@@ -42,16 +42,16 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(43, 12);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Ver1.20";
+            this.label1.Text = "Ver1.30";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(658, 266);
+            this.label2.Location = new System.Drawing.Point(537, 189);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(35, 12);
+            this.label2.Size = new System.Drawing.Size(119, 12);
             this.label2.TabIndex = 1;
-            this.label2.Text = "label2";
+            this.label2.Text = "label2aaaabbbbcccddd";
             // 
             // button1
             // 
@@ -93,7 +93,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
-            this.Text = "Ver1.20";
+            this.Text = "Ver1.30";
             this.ResumeLayout(false);
             this.PerformLayout();
 
