@@ -1,0 +1,2 @@
+# GitBranchMakeTest
+Gitブランチトレーニング用
